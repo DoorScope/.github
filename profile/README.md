@@ -58,7 +58,7 @@ of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Publ
 
 ### Credits:
 
-Author: rochus.keller [at] doorscope.ch
+Author: me@rochus-keller.ch
 
 Copyright (c) 2005-2017
 
